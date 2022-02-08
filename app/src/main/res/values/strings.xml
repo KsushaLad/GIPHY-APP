@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GIPHY</string>
+    <string name="search_photo">Поиск фото</string>
+    <string name="wallpaper">УСТАНОВИТЬ ОБОИ</string>
+    <string name="by_ksenia_ladoshko">by Ksenia Ladoshko</string>
+    <string name="animals">Animals</string>
+    <string name="travel">Travel</string>
+    <string name="food">Food</string>
+    <string name="nature">Nature</string>
+    <string name="textures">Textures</string>
+    <string name="_3d">3D</string>
+    <string name="search">search</string>
+    <string name="done">DONE</string>
+    <string name="results_could_not_be_loaded">Results could not be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="no_results_found_for_this_query">No results found for this query</string>
+    <string name="search_1">Search</string>
+    <string name="gallery">Gallery</string>
+    <string name="image">Image</string>
+</resources>
